@@ -1,7 +1,7 @@
 package video
 
 import (
-	"hornyaf/src/data/fs"
+	"cranky/data/fs"
 	"strconv"
 	"strings"
 	"unsafe"

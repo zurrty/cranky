@@ -1,8 +1,8 @@
 package video
 
 import (
+	"cranky/data/fs"
 	"fmt"
-	"hornyaf/src/data/fs"
 	"strings"
 
 	"github.com/go-gl/gl/v4.6-core/gl"

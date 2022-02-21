@@ -1,7 +1,7 @@
 package fs
 
 import (
-	"hornyaf/src/util"
+	"cranky/util"
 	"io/ioutil"
 	"os"
 	"sort"

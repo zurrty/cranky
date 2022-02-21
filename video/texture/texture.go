@@ -2,7 +2,7 @@ package texture
 
 import (
 	"bytes"
-	"hornyaf/src/data/fs"
+	"cranky/data/fs"
 	"image"
 	"image/draw"
 	_ "image/jpeg"

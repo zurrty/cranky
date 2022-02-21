@@ -1,8 +1,8 @@
 package window
 
 import (
-	"hornyaf/src/data"
-	"hornyaf/src/event"
+	"cranky/data"
+	"cranky/event"
 
 	"github.com/go-gl/gl/v4.6-core/gl"
 	"github.com/go-gl/glfw/v3.3/glfw"

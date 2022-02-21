@@ -1,9 +1,9 @@
 package entity
 
 import (
-	"hornyaf/src/video"
-	"hornyaf/src/video/texture"
-	"hornyaf/src/video/window"
+	"cranky/video"
+	"cranky/video/texture"
+	"cranky/video/window"
 )
 
 type EntityType interface {

@@ -1,9 +1,9 @@
 package data
 
 import (
+	"cranky/data/fs"
+	"cranky/util"
 	"fmt"
-	"hornyaf/src/data/fs"
-	"hornyaf/src/util"
 	"os"
 	"strings"
 )

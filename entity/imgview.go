@@ -1,12 +1,12 @@
 package entity
 
 import (
-	"hornyaf/src/data/fs"
-	"hornyaf/src/event"
-	"hornyaf/src/util"
-	"hornyaf/src/video"
-	"hornyaf/src/video/texture"
-	"hornyaf/src/video/window"
+	"cranky/data/fs"
+	"cranky/event"
+	"cranky/util"
+	"cranky/video"
+	"cranky/video/texture"
+	"cranky/video/window"
 	"math/rand"
 	"strings"
 
