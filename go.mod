@@ -1,4 +1,4 @@
-module cranky
+module github.com/zurrty/cranky
 
 go 1.17
 

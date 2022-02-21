@@ -1,9 +1,9 @@
 package entity
 
 import (
-	"cranky/video"
-	"cranky/video/texture"
-	"cranky/video/window"
+	"github.com/zurrty/cranky/video"
+	"github.com/zurrty/cranky/video/texture"
+	"github.com/zurrty/cranky/video/window"
 )
 
 type EntityType interface {

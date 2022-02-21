@@ -1,11 +1,12 @@
 package data
 
 import (
-	"cranky/data/fs"
-	"cranky/util"
 	"fmt"
 	"os"
 	"strings"
+
+	"github.com/zurrty/cranky/data/fs"
+	"github.com/zurrty/cranky/util"
 )
 
 type ConfigFile struct {

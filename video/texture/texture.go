@@ -2,13 +2,14 @@ package texture
 
 import (
 	"bytes"
-	"cranky/data/fs"
 	"image"
 	"image/draw"
 	_ "image/jpeg"
 	_ "image/png"
 	"io"
 	"strings"
+
+	"github.com/zurrty/cranky/data/fs"
 
 	"github.com/go-gl/gl/v4.6-core/gl"
 )

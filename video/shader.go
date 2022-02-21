@@ -1,9 +1,10 @@
 package video
 
 import (
-	"cranky/data/fs"
 	"fmt"
 	"strings"
+
+	"github.com/zurrty/cranky/data/fs"
 
 	"github.com/go-gl/gl/v4.6-core/gl"
 )

@@ -1,8 +1,8 @@
 package window
 
 import (
-	"cranky/data"
-	"cranky/event"
+	"github.com/zurrty/cranky/data"
+	"github.com/zurrty/cranky/event"
 
 	"github.com/go-gl/gl/v4.6-core/gl"
 	"github.com/go-gl/glfw/v3.3/glfw"

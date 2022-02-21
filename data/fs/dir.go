@@ -1,11 +1,12 @@
 package fs
 
 import (
-	"cranky/util"
 	"io/ioutil"
 	"os"
 	"sort"
 	"strings"
+
+	"github.com/zurrty/cranky/util"
 )
 
 var FORMATS = []string{"gif", "jpg", "jpeg", "png", "webp"}

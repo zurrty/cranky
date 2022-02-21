@@ -1,10 +1,11 @@
 package video
 
 import (
-	"cranky/data/fs"
 	"strconv"
 	"strings"
 	"unsafe"
+
+	"github.com/zurrty/cranky/data/fs"
 
 	"github.com/go-gl/gl/v4.6-core/gl"
 )

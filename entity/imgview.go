@@ -1,14 +1,15 @@
 package entity
 
 import (
-	"cranky/data/fs"
-	"cranky/event"
-	"cranky/util"
-	"cranky/video"
-	"cranky/video/texture"
-	"cranky/video/window"
 	"math/rand"
 	"strings"
+
+	"github.com/zurrty/cranky/data/fs"
+	"github.com/zurrty/cranky/event"
+	"github.com/zurrty/cranky/util"
+	"github.com/zurrty/cranky/video"
+	"github.com/zurrty/cranky/video/texture"
+	"github.com/zurrty/cranky/video/window"
 
 	"github.com/go-gl/gl/v4.6-core/gl"
 	"github.com/go-gl/glfw/v3.3/glfw"
